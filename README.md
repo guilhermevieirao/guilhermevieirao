@@ -20,16 +20,16 @@
 
 Developer from **Belo Horizonte, Minas Gerais, Brazil**, working across the full stack and specializing in application security. I build real products end to end — from database schema to deployed container — and I break them on purpose to learn how they fail.
 
-- 🛡️ **WorldSkills competitor — Skill #54, Cyber Security**
-- 🎓 **Technician in Systems Development**
-- 🎓 **Web Programming**
-- 🧩 Currently deep in **TypeScript monorepos**, **offensive security** and **secure API design**
-- 🌎 Portuguese (native) · **English (advanced)**
-- 💬 Reach me on [LinkedIn](https://www.linkedin.com/in/guilherme-amantino-vieira-8495222a2/)
+-  **WorldSkills competitor — Skill #54, Cyber Security**
+-  **Technician in Systems Development**
+-  **Web Programming**
+-  Currently deep in **TypeScript monorepos**, **offensive security** and **secure API design**
+-  Portuguese (native) · **English (advanced)** · French (learning)
+-  Reach me on [LinkedIn](https://www.linkedin.com/in/guilherme-amantino-vieira-8495222a2/)
 
 ---
 
-## 🛡️ WorldSkills — Skill #54, Cyber Security
+##  WorldSkills — Skill #54, Cyber Security
 
 > I currently compete in **Skill #54 (Cyber Security)** at WorldSkills, the international skills competition where young professionals from more than 80 countries are tested under real-world conditions against a common technical standard.
 
@@ -37,17 +37,17 @@ The skill is scored across the full defensive and offensive spectrum:
 
 | Domain | What it covers |
 | :-- | :-- |
-| 🔍 **Penetration Testing** | Reconnaissance, exploitation and post-exploitation of live targets |
-| 🧱 **System Hardening** | Securing Linux and Windows hosts, services and network perimeters |
-| 🚨 **Incident Response** | Detecting, containing and eradicating an active intrusion under time pressure |
-| 🕵️ **Digital Forensics** | Disk, memory and network artifact analysis, evidence handling and reporting |
-| 📄 **Reporting** | Turning technical findings into risk-ranked, client-ready documentation |
+|  **Penetration Testing** | Reconnaissance, exploitation and post-exploitation of live targets |
+|  **System Hardening** | Securing Linux and Windows hosts, services and network perimeters |
+|  **Incident Response** | Detecting, containing and eradicating an active intrusion under time pressure |
+|  **Digital Forensics** | Disk, memory and network artifact analysis, evidence handling and reporting |
+|  **Reporting** | Turning technical findings into risk-ranked, client-ready documentation |
 
 Training for it is why my stack runs from **Kali Linux and network internals** all the way up to **production web applications** — you cannot defend what you have not built.
 
 ---
 
-## 🧰 Tech Stack
+##  Tech Stack
 
 ### Languages
 
@@ -151,13 +151,13 @@ Training for it is why my stack runs from **Kali Linux and network internals** a
 
 ---
 
-## 🚀 Featured Projects
+##  Featured Projects
 
 <table>
 <tr>
 <td width="50%" valign="top">
 
-### 🔄 [SkillEx](https://github.com/guilhermevieirao/SkillEx)
+###  [SkillEx](https://github.com/guilhermevieirao/SkillEx)
 
 <img src="https://img.shields.io/badge/TCC-Systems%20Development-00FF41?style=flat-square&labelColor=0D1117" alt="Final course project" />
 
@@ -168,7 +168,7 @@ Training for it is why my stack runs from **Kali Linux and network internals** a
 </td>
 <td width="50%" valign="top">
 
-### 🤖 [MinerSkills](https://github.com/guilhermevieirao/MinerSkills)
+###  [MinerSkills](https://github.com/guilhermevieirao/MinerSkills)
 
 Institutional platform for **FRC robotics team #10019** (SESI/SENAI — Belo Horizonte / Contagem). Animated landing page, blog, member and robot encyclopedia, moderated forum, quiz with leaderboard, event calendar and a full admin panel — built as a monorepo.
 
@@ -179,7 +179,7 @@ Institutional platform for **FRC robotics team #10019** (SESI/SENAI — Belo Hor
 <tr>
 <td width="50%" valign="top">
 
-### 💼 [QuickHire](https://github.com/guilhermevieirao/quickhire)
+###  [QuickHire](https://github.com/guilhermevieirao/quickhire)
 
 <img src="https://img.shields.io/badge/TCC-Web%20Programming-00FF41?style=flat-square&labelColor=0D1117" alt="Final course project" />
 
@@ -190,7 +190,7 @@ Institutional platform for **FRC robotics team #10019** (SESI/SENAI — Belo Hor
 </td>
 <td width="50%" valign="top">
 
-### 📝 [GabaritoEnem2025](https://github.com/guilhermevieirao/GabaritoEnem2025)
+###  [GabaritoEnem2025](https://github.com/guilhermevieirao/GabaritoEnem2025)
 
 Interactive grader for the **ENEM 2025** exam. Corrects every booklet colour across both test days, breaks performance down by subject area, exports results to PDF and saves progress locally — no server required.
 
@@ -202,7 +202,7 @@ Interactive grader for the **ENEM 2025** exam. Corrects every booklet colour acr
 
 ---
 
-## 📊 GitHub Statistics
+##  GitHub Statistics
 
 <div align="center">
 
@@ -214,21 +214,11 @@ Interactive grader for the **ENEM 2025** exam. Corrects every booklet colour acr
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=guilhermevieirao&theme=tokyonight" alt="Repositories per language" />
 <img height="200" src="https://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=guilhermevieirao&theme=tokyonight&utcOffset=-3" alt="Productive time" />
 
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=guilhermevieirao&theme=tokyo-night&hide_border=true&bg_color=0D1117&color=00FF41&line=00FF41&point=FFFFFF&area=true" alt="Contribution activity graph" />
-
-<!--
-  Optional extra cards — github-readme-stats' public instance was down (DEPLOYMENT_PAUSED)
-  when this README was written. If it comes back online, uncomment to add them:
-
-  <img height="165" src="https://github-readme-stats.vercel.app/api?username=guilhermevieirao&show_icons=true&count_private=true&include_all_commits=true&theme=tokyonight&hide_border=true" alt="GitHub stats" />
-  <img height="165" src="https://github-readme-stats.vercel.app/api/top-langs/?username=guilhermevieirao&layout=compact&langs_count=8&theme=tokyonight&hide_border=true" alt="Most used languages" />
--->
-
 </div>
 
 ---
 
-## 📫 Get in Touch
+##  Get in Touch
 
 <div align="center">
 
