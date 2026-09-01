@@ -53,18 +53,13 @@ Training for it is why my stack runs from **Kali Linux and network internals** a
 
 <table align="center">
 <tr>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" width="48" height="48" alt="JavaScript" /><br><sub><b>JavaScript</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/typescript/typescript-original.svg" width="48" height="48" alt="TypeScript" /><br><sub><b>TypeScript</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" width="48" height="48" alt="Python" /><br><sub><b>Python</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/csharp/csharp-original.svg" width="48" height="48" alt="C#" /><br><sub><b>C#</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/c/c-original.svg" width="48" height="48" alt="C" /><br><sub><b>C</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/cplusplus/cplusplus-original.svg" width="48" height="48" alt="C++" /><br><sub><b>C++</b></sub></td>
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/php/php-original.svg" width="48" height="48" alt="PHP" /><br><sub><b>PHP</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/go/go-original.svg" width="48" height="48" alt="Go" /><br><sub><b>Go</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br><sub><b>HTML5</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" width="48" height="48" alt="CSS3" /><br><sub><b>CSS3</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" width="48" height="48" alt="HTML5" /><br><sub><b>HTML</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sass/sass-original.svg" width="48" height="48" alt="Sass" /><br><sub><b>SCSS</b></sub></td>
 </tr>
 </table>
@@ -74,9 +69,7 @@ Training for it is why my stack runs from **Kali Linux and network internals** a
 <table align="center">
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" width="48" height="48" alt="React" /><br><sub><b>React</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" /><br><sub><b>Angular</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vitejs/vitejs-original.svg" width="48" height="48" alt="Vite" /><br><sub><b>Vite</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/tailwindcss/tailwindcss-original.svg" width="48" height="48" alt="Tailwind CSS" /><br><sub><b>Tailwind</b></sub></td>
+<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/angular/angular-original.svg" width="48" height="48" alt="Angular" /><br><sub><b>Angular</b></sub></td></sub></td>
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/bootstrap/bootstrap-original.svg" width="48" height="48" alt="Bootstrap" /><br><sub><b>Bootstrap</b></sub></td>
@@ -96,7 +89,6 @@ Training for it is why my stack runs from **Kali Linux and network internals** a
 </tr>
 <tr>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/flask/888888" width="48" height="48" alt="Flask" /><br><sub><b>Flask</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/django/django-plain.svg" width="48" height="48" alt="Django" /><br><sub><b>Django</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.simpleicons.org/prisma/888888" width="48" height="48" alt="Prisma" /><br><sub><b>Prisma</b></sub></td>
 </tr>
 </table>
@@ -106,7 +98,6 @@ Training for it is why my stack runs from **Kali Linux and network internals** a
 <table align="center">
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/postgresql/postgresql-original.svg" width="48" height="48" alt="PostgreSQL" /><br><sub><b>PostgreSQL</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mysql/mysql-original.svg" width="48" height="48" alt="MySQL" /><br><sub><b>MySQL</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/sqlite/sqlite-original.svg" width="48" height="48" alt="SQLite" /><br><sub><b>SQLite</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/mongodb/mongodb-original.svg" width="48" height="48" alt="MongoDB" /><br><sub><b>MongoDB</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/redis/redis-original.svg" width="48" height="48" alt="Redis" /><br><sub><b>Redis</b></sub></td>
@@ -119,7 +110,6 @@ Training for it is why my stack runs from **Kali Linux and network internals** a
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/docker/docker-original.svg" width="48" height="48" alt="Docker" /><br><sub><b>Docker</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/nginx/nginx-original.svg" width="48" height="48" alt="Nginx" /><br><sub><b>Nginx</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/apache/apache-original.svg" width="48" height="48" alt="Apache" /><br><sub><b>Apache</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/linux/linux-original.svg" width="48" height="48" alt="Linux" /><br><sub><b>Linux</b></sub></td>
 </tr>
 <tr>
@@ -145,7 +135,6 @@ Training for it is why my stack runs from **Kali Linux and network internals** a
 <tr>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/vscode/vscode-original.svg" width="48" height="48" alt="VS Code" /><br><sub><b>VS Code</b></sub></td>
 <td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/visualstudio/visualstudio-plain.svg" width="48" height="48" alt="Visual Studio" /><br><sub><b>Visual Studio</b></sub></td>
-<td align="center" width="96"><img src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/pycharm/pycharm-original.svg" width="48" height="48" alt="PyCharm" /><br><sub><b>PyCharm</b></sub></td>
 </tr>
 </table>
 
